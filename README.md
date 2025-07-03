@@ -1,17 +1,19 @@
 # Mob of the Dead Guide
 
-![GHRM](src/assets/GHRM.png)
+![Mob of the Dead Logo](src/assets/GHRM.png)
 
 ## The Ultimate Easter Egg Showcase
 
-Dive into the **Mob of the Dead Guide**, your concise companion to Alcatraz’s secrets:
+Dive into the **Mob of the Dead Guide**, your immersive companion to Alcatraz’s secrets:
 
-- **Five Core Steps**: Clear, bold overviews of each Easter Egg milestone.  
-- **Interactive Trivia**: Hover-triggered lore tidbits for deeper immersion.  
-- **Cinematic Design**: Dark glass panels, blurred backdrops, and gold highlights.  
-- **Seamless Navigation**: Fixed header & footer for instant access.  
-- **Responsive Layout**: Perfect on desktop, tablet, and mobile.
+- **Five Core Steps** – Bold, concise breakdowns of every major Easter Egg milestone.  
+- **Interactive Trivia** – Hover to unveil lore and hidden details.  
+- **Cinematic Design** – Dark glass panels, blurred backdrops, and signature gold accents.  
+- **Seamless Navigation** – Fixed header and footer for easy access throughout.  
+- **Fully Responsive** – Optimized for desktop, tablet, and mobile.
 
-[View the full license](./LICENSE)
+🔗 [Live Site](https://motd-guide.onrender.com)
+
+📄 [View License](./LICENSE)
 
 © 2025 Mob of the Dead Guide
