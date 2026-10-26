@@ -1,6 +1,6 @@
 # Mob of the Dead Guide
 
-![Mob of the Dead Logo](src/assets/GHRM.png)
+![Mob of the Dead portfolio artwork](https://raw.githubusercontent.com/PHTMGatt/12-React-Portfolio/a2c43d8301679dbda14ad06dc225d61e5515e431/src/assets/project-images/MOTD.png)
 
 ## The Ultimate Easter Egg Showcase
 
