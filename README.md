@@ -1,6 +1,6 @@
 # Mob of the Dead Guide
 
-![Mob of the Dead Logo](src/assets/GHRM.png)
+![Mob of the Dead Logo](docs/portfolio/cover.webp)
 
 ## The Ultimate Easter Egg Showcase
 
